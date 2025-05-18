@@ -17,6 +17,7 @@ pytest = "*"
 httpx = "*"
 langdetect = "*"
 prometheus-client = "*"
+pydantic-settings = "*"
 
 [dev-packages]
 
